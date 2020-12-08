@@ -1,0 +1,16 @@
+.radioBtnComponent{
+  text-align:left;
+}
+
+.not-showing{
+  display:none;
+}
+
+span{
+  display:inline-block;
+  vertical-align:top;
+}
+
+img{
+  height:20px;
+}
